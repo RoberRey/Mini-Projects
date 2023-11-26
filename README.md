@@ -18,7 +18,7 @@ https://www.kaggle.com/competitions/tabular-playground-series-sep-2022
 
 ### Tabular Play Ground Series - Nov 2022
 
-Position : 269/689 (Top 13%)
+Position : 269/689 (Top 40%)
 
 https://www.kaggle.com/competitions/tabular-playground-series-nov-2022
 
